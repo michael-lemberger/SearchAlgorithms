@@ -1,0 +1,8 @@
+IDA*
+no time
+no open
+2x2
+Black:
+Red: 
+1,_
+2,3
